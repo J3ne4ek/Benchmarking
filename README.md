@@ -41,6 +41,15 @@ Content Relevance
     2 — Response contains only necessary content. Every sentence is clearly helpful  and not repetitive.
 
 
-Writing Style
+Content Completeness
+
+    0 — The response gives enough information with sufficient detail to completely addresses the prompt.
+
+    1 — There is some relevant information that is missing the response, reducing its helpfulness or 
+    
+    2 — Too much content is missing to fulfill the user’s request in a meaningful way. 
+
+
+
 
     
