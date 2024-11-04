@@ -50,6 +50,72 @@ Content Completeness
     2 — Too much content is missing to fulfill the user’s request in a meaningful way. 
 
 
+### Evaluation
 
+#### ChatGPT
 
+| Question | Truthfulness | Content Relevance | Content Completeness |
+|----------|--------------|-------------------|----------------------|
+| Q1       | 5            | 4                 | 5                    |
+| Q2       | 4            | 4                 | 3                    |
+| Q3       | 5            | 5                 | 5                    |
+| Q4       | 5            | 4                 | 4                    |
+| Q5       | 5            | 4                 | 4                    |
+| Overall  | 5            | 4                 | 4                    |
+
+**Recommendations**
+
+#### Mistral
+
+| Question | Truthfulness | Content Relevance | Content Completeness |
+|----------|--------------|-------------------|----------------------|
+| Q1       | 5            | 4                 | 5                    |
+| Q2       | 4            | 4                 | 3                    |
+| Q3       | 5            | 5                 | 5                    |
+| Q4       | 5            | 4                 | 4                    |
+| Q5       | 5            | 4                 | 4                    |
+| Overall  | 5            | 4                 | 4                    |
+
+**Recommendations**
+
+####  Gemini
+
+| Question | Truthfulness | Content Relevance | Content Completeness |
+|----------|--------------|-------------------|----------------------|
+| Q1       | 5            | 4                 | 5                    |
+| Q2       | 4            | 4                 | 3                    |
+| Q3       | 5            | 5                 | 5                    |
+| Q4       | 5            | 4                 | 4                    |
+| Q5       | 5            | 4                 | 4                    |
+| Overall  | 5            | 4                 | 4                    |
+
+**Recommendations**
+
+#### DeepSeek
+
+| Question | Truthfulness | Content Relevance | Content Completeness |
+|----------|--------------|-------------------|----------------------|
+| Q1       | 5            | 4                 | 5                    |
+| Q2       | 4            | 4                 | 3                    |
+| Q3       | 5            | 5                 | 5                    |
+| Q4       | 5            | 4                 | 4                    |
+| Q5       | 5            | 4                 | 4                    |
+| Overall  | 5            | 4                 | 4                    |
+
+**Recommendations**
+
+#### YandexGPT 4 Pro RC
+
+| Question | Truthfulness | Content Relevance | Content Completeness |
+|----------|--------------|-------------------|----------------------|
+| Q1       | 5            | 4                 | 5                    |
+| Q2       | 4            | 4                 | 3                    |
+| Q3       | 5            | 5                 | 5                    |
+| Q4       | 5            | 4                 | 4                    |
+| Q5       | 5            | 4                 | 4                    |
+| Overall  | 5            | 4                 | 4                    |
+
+**Recommendations**
     
+
+### Conclusion
